@@ -23,3 +23,15 @@ body {
     color:red; /* Set text color to red */
 }
 
+/*CSS FOR BODY*/
+.container {
+    display:flex;
+    flex-direction: row;
+    flex-flow: column-wrap;
+    justify-content: space-evenly;
+    align-items: flex-start; /*or try stretch or baseline*/
+
+
+
+}
+
